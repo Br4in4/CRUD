@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\WindowsAppCRUD\WindowsAppCRUD\bin\Debug\DBusers.mdf
+C:\Users\ADMIN\source\repos\WindowsAppCRUD\WindowsAppCRUD\bin\Debug\DBusers_log.ldf
+C:\Users\ADMIN\source\repos\WindowsAppCRUD\WindowsAppCRUD\bin\Debug\WindowsAppCRUD.exe.config
+C:\Users\ADMIN\source\repos\WindowsAppCRUD\WindowsAppCRUD\bin\Debug\WindowsAppCRUD.exe
+C:\Users\ADMIN\source\repos\WindowsAppCRUD\WindowsAppCRUD\bin\Debug\WindowsAppCRUD.pdb
+C:\Users\ADMIN\source\repos\WindowsAppCRUD\WindowsAppCRUD\bin\Debug\WindowsAppCRUD.xml
+C:\Users\ADMIN\source\repos\WindowsAppCRUD\WindowsAppCRUD\obj\Debug\WindowsAppCRUD.vbprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\WindowsAppCRUD\WindowsAppCRUD\obj\Debug\WindowsAppCRUD.Form1.resources
+C:\Users\ADMIN\source\repos\WindowsAppCRUD\WindowsAppCRUD\obj\Debug\WindowsAppCRUD.Resources.resources
+C:\Users\ADMIN\source\repos\WindowsAppCRUD\WindowsAppCRUD\obj\Debug\WindowsAppCRUD.vbproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\WindowsAppCRUD\WindowsAppCRUD\obj\Debug\WindowsAppCRUD.vbproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\WindowsAppCRUD\WindowsAppCRUD\obj\Debug\WindowsAppCRUD.exe
+C:\Users\ADMIN\source\repos\WindowsAppCRUD\WindowsAppCRUD\obj\Debug\WindowsAppCRUD.xml
+C:\Users\ADMIN\source\repos\WindowsAppCRUD\WindowsAppCRUD\obj\Debug\WindowsAppCRUD.pdb
